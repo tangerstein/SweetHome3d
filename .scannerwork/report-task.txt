@@ -1,0 +1,6 @@
+projectKey=SweetHome3D
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/SweetHome3D
+ceTaskId=AV07K6LRizBHRsl7CAaZ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV07K6LRizBHRsl7CAaZ
